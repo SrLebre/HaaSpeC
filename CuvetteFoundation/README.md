@@ -6,9 +6,9 @@ This folder contains OpenSCAD models responsibles for holding the Cuvette in pla
 1. CuvetteSupport.scad
 
     [3D Model]()
-    ![Image]()
+    ![Image](./CuvetteSupport.png)
     
 2. FiberPresses.scad
 
     [3D Model]()
-    ![Image]()
+    ![Image](./FiberPresser.png)

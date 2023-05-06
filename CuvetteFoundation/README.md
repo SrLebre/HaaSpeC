@@ -12,4 +12,4 @@
     ![Image](./FiberPresser.png)
 ---
 
-## [3D Models fpr download](https://www.thingiverse.com/thing:6009786)
+## [3D Models for download](https://www.thingiverse.com/thing:6009786)
